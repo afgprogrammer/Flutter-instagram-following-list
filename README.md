@@ -27,7 +27,7 @@ flutter run
 
 ## ScreenShot
 
-<img src="assets/screenshot/one.png" />
+<img src="assets/screenshots/one.png" />
 
 ## Links
 
